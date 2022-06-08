@@ -260,7 +260,7 @@ p.menu {
 }
 
 div.quip {
-    margin-bottom: 4em;
+    margin-bottom: 5em;
     display: block;
     max-width: 800px;
 }
@@ -500,8 +500,11 @@ table {
 .sep, a.inactive , .inactive { 
 color: #999999;
 }
-img.cover {
+.cover img {
     width: 160px;
+}
+.front-cover img {
+    height: 240px;
 }
 .single-book-cover-right {
     float: right;
@@ -567,7 +570,7 @@ div.journal {
 
 }
 div.event {
-    width: 800px;
+    /* width: 800px; */
     clear: both; 
     margin-bottom: 2em;
     margin-top: 2em;
