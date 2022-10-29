@@ -550,7 +550,7 @@ background: #ab0024;
     padding: 0 2px;
 }
 #front-content {
-
+   width: 1200px;
     margin-left: 56pt;
 }
 #front-content div.book {
