@@ -263,7 +263,7 @@ p.menu {
 div.quip {
     margin-bottom: 5em;
     display: block;
-    max-width: 800px;
+    /*max-width: 800px;*/
 }
 div.quip a {
     color: black;
