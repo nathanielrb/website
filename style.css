@@ -531,10 +531,10 @@ div.cover {
 }
 div.empty-cover {
     float: left;
-    margin-right: 1em;
+    margin-right: 0;
     width: 200px;
     height: 160px;
-    background: #bbb
+  
 }
 .imgsep {
     display: inline-block;
