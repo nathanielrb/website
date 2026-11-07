@@ -633,10 +633,12 @@ body {font-size: 20px;line-height: 2em;}
  h3 { margin-top: 2em;}
  #front-content div.book { width: 92% }
  p.book {width: 80%;}
- div.cover { width: 20% }
+ div.cover { }
 }
 
 @media (max-width: 600px) {
 div.cover {display: block; float: none;}
+div.cover img {width: 260px;}
+div.empty-cover {display: none; float: none;}
 p.book {margin: 1em 0 0 0; width: 100%;}
 }
