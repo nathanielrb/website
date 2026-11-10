@@ -268,7 +268,7 @@ div.quip {
 div.quip a {
     color: black;
 }
-p.menu a {
+p.menu span {
  margin-right: 2em
 }
 #content p.menu .langue {
